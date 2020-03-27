@@ -335,12 +335,13 @@ li a {
 }
 
 #desktopMenu {
+  font-size: 1.8vw;
   font-family: 'Roboto', sans-serif;
   margin-bottom: auto;
   margin-top: auto;
   padding-right: 200px;
   padding-bottom: 20px;
-  margin-top: 15px;
+  margin-top: 20px;
   float: right;
 }
 
