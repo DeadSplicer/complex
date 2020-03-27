@@ -28,7 +28,7 @@ img:hover {
 /* Home slide overlay START */
 .overlay {
   position: absolute;
-  bottom: 0;
+  top: 0;
   left: 0;
   right: 0;
   background-color: #3653e3;
@@ -589,7 +589,7 @@ h2 .sidebar-button-mobile {
 }
 
 .row {
-  padding-left: 20px;
+  /* padding-left: 20px; */
 }
 
 .padding-15 {
