@@ -130,21 +130,21 @@ body {
   margin: 0;
 }
 
-.mobile-anchor:target:before {
+.mobile-anchor {
   content:"";
   display:block;
-  height:205px; /* fixed header height*/
-  margin:-205px 0 0; /* negative fixed header height */
-  pointer-events: none;
+  height:170px; /* fixed header height*/
+  margin:-170px 0 0; /* negative fixed header height */
+  /* pointer-events: none; */
 
   /*display: block;*/
   /*  width: 5px;*/
   /*  height: 490px;*/ /*same height as header*/
   /*  margin-top: -490px;*/ /*same height as header*/
-  visibility: hidden;
+  /* visibility: hidden; */
   /* position: absolute; */
   /* top: -200px; */
-  /* background-color: red; */
+  background-color: red;
 }
 
 
