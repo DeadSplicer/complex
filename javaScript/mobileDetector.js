@@ -116,39 +116,6 @@ $('.trigger').on('click', function(){
   $('#mobileNavMenu').slideToggle(823, "easeOutExpo");
 })
 
-//alert("click");
-
-
-//Nothing happens here, so just jog on. Twat.
-// var txt = "";
-// var currentPage = document.getElementById("active").textContent;
-//
-// if (currentPage === "Photography"){
-//   window.addEventListener("keypress", function(event) {
-//     if (isChrome()){
-//       console.log("Chrome!")
-//       txt += event.code[3];
-//       if(txt === "CODE"){
-//         window.location = "../../txt/index.html"
-//       }
-//       else if(txt === "NSFW"){
-//         window.location = "../../pages/photo/314159265.html"
-//       }
-//     }
-//     else {
-//       txt += event.char.toUpperCase();
-//       if(txt === "CODE"){
-//         window.location = "../../txt/index.html"
-//       }
-//       else if(txt === "NSFW"){
-//         window.location = "../../pages/photo/314159265.html"
-//       }
-//     }
-//   });
-//   console.log("Password:");
-// }
-
-
 
 /*
 * Youtube video auto-resizer script
